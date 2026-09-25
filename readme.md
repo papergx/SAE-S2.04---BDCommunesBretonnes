@@ -22,7 +22,7 @@
 
 ## 📌 À propos
 
-Ce projet est une SAE (Situation d'Apprentissage et d'Évaluation) du module **S2.04 – Bases de données relationnelles**, réalisée en 1ʳᵉ année de BUT Informatique (groupe C1).
+Ce projet est une SAE (Situation d'Apprentissage et d'Évaluation) du module **S2.04 – Bases de données relationnelles**, réalisée en 1ʳᵉ année de BUT Informatique.
 
 L'objectif est de modéliser puis d'interroger une base de données décrivant les **communes des 4 départements bretons** (Côtes-d'Armor, Finistère, Ille-et-Vilaine, Morbihan) : leurs gares, les aéroports du département, les relations de voisinage entre communes, ainsi que des statistiques annuelles (immobilier, dépenses culturelles, population).
 
@@ -136,7 +136,6 @@ Chaque requête est accompagnée, en commentaire dans le fichier, d'un extrait d
 ## 📁 Structure du dépôt
 
 ```
-S204_gr1C1_Boeffard_Kevin/
 ├── S204_creation_bdd.sql   # Schéma relationnel, contraintes et création des tables
 └── S204_requetes.sql       # 20 requêtes SQL (jointures, sous-requêtes, agrégats, vues)
 ```
